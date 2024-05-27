@@ -199,16 +199,16 @@ background-color: #FFFFFF
     color:#4D5AE5;
 }
 .footer-link-webstudio{
-    font-family: "Raleway"; sans-serif;
+    font-family: "Raleway", sans-serif;
     line-height: 1.17;
     font-size: 18px;
     font-weight: 700;
     letter-spacing: 0.03em;
     text-align: left;
     color: #4D5AE5;
+    text-transform: uppercase;
+
 }
-
-
 
 .footer-link-studio{
     font-family: Raleway;
