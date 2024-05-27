@@ -1,6 +1,8 @@
 body{
-    font-family:"Roboto",sans-serif;
+font-family:"Roboto",sans-serif;
 font-size: 400;
+сolor:#434455 
+background-color#FFFFFF
 }
 
 ul {list-style-type: none;}
@@ -74,13 +76,17 @@ a {text-decoration: none; }
 
 background: #2E2F42;
 }
-.main-title-h1{
+.main-title-business{
+    
     font-family: Roboto;
     font-size: 56px;
     font-weight: 700;
     line-height: 60px;
     letter-spacing: 0.02em;
-    color: #FFFFFF;}
+    text-align: center;
+    line-height: 1.07;
+    color: #FFFFFF;
+}
 
 .main-btn{
     font-family: Roboto;
@@ -120,12 +126,20 @@ background: #2E2F42;
 .main-section-third{
 background: #F4F4FD;
 }   
-
-.main-section-fourth{
-    border-width: 1px, 1px, 1px, 1px;
-    border-style: solid;
-    border-color: #E7E9FC;
-    }
+.main-title-team{
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 40px;
+    letter-spacing: 0.02em;
+    text-align: center;
+    background: #2E2F42;
+    width: 162px;
+    height: 40px;
+    top: 1136px;
+    left: 639px;
+    gap: 0px;
+    opacity: 0px;}
 
 
 .main-section-third-header{
@@ -144,6 +158,11 @@ background: #F4F4FD;
     letter-spacing: 0.02em;
     color:#434455}
 
+.main-section-fourth{
+    border-width: 1px, 1px, 1px, 1px;
+    border-style: solid;
+    border-color: #E7E9FC;
+    }
 .main-section-fourth-h2{
     font-family: Roboto;
     font-size: 36px;
