@@ -117,30 +117,37 @@ background: #2E2F42;
     color: #434455;}
 
 .main-section-third{
-background-color: #FFFFFF 
+background-color: #F4F4FD;
 }   
+.main-section-third-item{
+background-color: #FFFFFF 
+}
+
 .main-title-team{
     font-family: Roboto;
     font-size: 36px;
     font-weight: 700;
-    line-height: 40px;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
     background: #2E2F42;
+}
 
-.main-section-third-header{
+main-section-third-header{
     font-family: Roboto;
     font-size: 20px;
     font-weight: 500;
-    line-height: 24px;
+    line-height: 1.2; 
     letter-spacing: 0.02em;
-    color: #2E2F42;}
+    text-align: center;
+    color:#2e2f42}
+
 
 .main-section-third-text{
     font-family: Roboto;
     font-size: 16px;
     font-weight: 400;
-    line-height: 24px;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     color:#434455}
 
@@ -148,7 +155,7 @@ background-color: #FFFFFF
     border-width: 1px, 1px, 1px, 1px;
     border-style: solid;
     border-color: #E7E9FC;
-    }
+}
 .main-section-fourth-h2{
     font-family: Roboto;
     font-size: 36px;
