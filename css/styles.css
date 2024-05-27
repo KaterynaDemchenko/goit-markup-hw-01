@@ -10,26 +10,24 @@ a {text-decoration: none; }
 
 /*-------HEADER--------*/
 
-
 .header-link-webstudio{
 font-family: Raleway, sans-serif;
 font-size: 18px;
 font-weight: 700;
 letter-spacing: 0.03em;
 text-align: left;
-color:#4D5AE5;
 text-transform: uppercase;
 line-height: 1.17; 
-}
+color:#4D5AE5;}
 
-.header-link-studio
-    {font-family: Raleway;
+.header-link-studio{
+    font-family: Raleway;
     font-size: 18px;
     font-weight: 700;
     line-height: 21px;
     letter-spacing: 0.03em;
-    color: #2E2F42;}
-    
+    text-align: left;
+    color:#2E2F42;}
 
 .header-menu-link-studio{
     font-family: Roboto;
@@ -167,7 +165,6 @@ background-color: #FFFFFF
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
-    text-transform: capitalize;
     color:#2E2F42;}
 
 .main-section-fourth-header{
@@ -176,7 +173,8 @@ background-color: #FFFFFF
     font-weight: 500;
     line-height: 24px;
     letter-spacing: 0.02em;
-    color:#2E2F42}
+    text-transform: capitalize;
+    color:#2E2F42;}
 
 .main-section-fourth-text{
     font-family: Roboto;
