@@ -196,15 +196,31 @@ background-color: #FFFFFF
     font-weight: 700;
     line-height: 21px;
     letter-spacing: 0.03em;
-    color:#4D5AE5}
+    color:#4D5AE5;
+}
+.footer-link-webstudio{
+    font-family: "Raleway"; sans-serif;
+    line-height: 1.17;
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: 0.03em;
+    text-align: left;
+    color: #4D5AE5;
+}
 
-.footer-link-1{
+
+
+.footer-link-studio{
     font-family: Raleway;
     font-size: 18px;
     font-weight: 700;
     line-height: 21px;
     letter-spacing: 0.03em;
-    color: #F4F4FD;}
+    text-align: left;
+    color: #F4F4FD;
+    ;
+    
+}
 
 .footer-text-custumers{
     font-family: Roboto;
