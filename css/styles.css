@@ -156,13 +156,18 @@ background-color: #FFFFFF
     border-style: solid;
     border-color: #E7E9FC;
 }
-.main-section-fourth-h2{
+.main-section-fourth-title{
     font-family: Roboto;
     font-size: 36px;
     font-weight: 700;
-    line-height: 40px;
+    line-height: 1.11;
     letter-spacing: 0.02em;
-    color:#2E2F42}
+    text-align: center;
+    text-transform: capitalize;
+    color:#2E2F42;}
+
+
+
 
 .main-section-fourth-header{
     font-family: Roboto;
