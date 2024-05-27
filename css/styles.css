@@ -1,8 +1,8 @@
 body{
 font-family:"Roboto",sans-serif;
 font-size: 400;
-сolor:#434455 
-background-color#FFFFFF
+color:#434455; 
+background-color#FFFFFF;
 }
 
 ul {list-style-type: none;}
@@ -124,7 +124,7 @@ background: #2E2F42;
 
 
 .main-section-third{
-background: #F4F4FD;
+background-color: #FFFFFF 
 }   
 .main-title-team{
     font-family: Roboto;
@@ -134,13 +134,6 @@ background: #F4F4FD;
     letter-spacing: 0.02em;
     text-align: center;
     background: #2E2F42;
-    width: 162px;
-    height: 40px;
-    top: 1136px;
-    left: 639px;
-    gap: 0px;
-    opacity: 0px;}
-
 
 .main-section-third-header{
     font-family: Roboto;
