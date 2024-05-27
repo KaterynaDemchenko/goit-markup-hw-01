@@ -206,13 +206,14 @@ background-color: #FFFFFF
     letter-spacing: 0.03em;
     color: #F4F4FD;}
 
-.footer-text{
+.footer-text-custumers{
     font-family: Roboto;
     font-size: 16px;
     font-weight: 400;
-    line-height: 24px;
     letter-spacing: 0.02em;
-    color:#F4F4FD
+    line-height: 1.5;
+    color:#F4F4FD;
+    letter-spacing: 0.02em; 
 }
 
 /*----------------------*/
