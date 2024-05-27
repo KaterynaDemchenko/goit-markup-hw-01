@@ -152,11 +152,12 @@ background-color: #FFFFFF
     color:#434455}
 
 .main-section-fourth{
-    border-width: 1px, 1px, 1px, 1px;
+    border-width: 1px, 1px, 1px;
     border-style: solid;
     border-color: #E7E9FC;
 }
-.main-section-fourth-title{
+
+.main-section-fourth-title{   
     font-family: Roboto;
     font-size: 36px;
     font-weight: 700;
@@ -165,9 +166,6 @@ background-color: #FFFFFF
     text-align: center;
     text-transform: capitalize;
     color:#2E2F42;}
-
-
-
 
 .main-section-fourth-header{
     font-family: Roboto;
