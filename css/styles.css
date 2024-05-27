@@ -1,0 +1,236 @@
+body{
+    font-family:"Roboto",sans-serif;
+font-size: 400;
+}
+
+ul {list-style-type: none;}
+a {text-decoration: none; }
+
+/*-------HEADER--------*/
+
+.header{}
+
+.header-logo
+    {font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0.03em;
+    color: #4D5AE5;}
+
+.header-logo-1
+    {font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0.03em;
+    color: #2E2F42;}
+
+.header-menu-link-studio{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #2E2F42;}
+
+.header-menu-link-portfolio{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color: #2E2F42;}
+
+.header-menu-link-contacts{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color:#2E2F42;}
+
+.header-address-link-email{  
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #434455;}
+
+.header-address-link-tel{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color:#434455}
+
+/*----------------------*/
+
+/*--------MAIN---------*/
+.main-section-first{  
+
+background: #2E2F42;
+}
+.main-title-h1{
+    font-family: Roboto;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;}
+
+.main-btn{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.04em;
+    color:#FFFFFF}
+
+.main-section-second-header{
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color:#2E2F42}
+
+.main-section-second-text{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #434455;}
+
+.main-title-h2{
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 40px;
+    letter-spacing: 0.02em;
+    color:#2E2F42}
+
+
+
+
+.main-section-third{
+background: #F4F4FD;
+}   
+
+.main-section-fourth{
+    border-width: 1px, 1px, 1px, 1px;
+    border-style: solid;
+    border-color: #E7E9FC;
+    }
+
+
+.main-section-third-header{
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #2E2F42;}
+
+.main-section-third-text{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color:#434455}
+
+.main-section-fourth-h2{
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 40px;
+    letter-spacing: 0.02em;
+    color:#2E2F42}
+
+.main-section-fourth-header{
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color:#2E2F42}
+
+.main-section-fourth-text{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color:#434455}
+
+
+    
+/*----------------------*/
+
+/*--------FOOTER--------*/
+
+
+.footer{
+ background:#2E2F42
+}
+.footer-link{
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0.03em;
+    color:#4D5AE5}
+
+.footer-link-1{
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0.03em;
+    color: #F4F4FD;}
+
+.footer-text{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color:#F4F4FD
+}
+
+/*----------------------*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
