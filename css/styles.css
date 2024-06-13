@@ -37,6 +37,13 @@ color:#4D5AE5;}
     letter-spacing: 0.02em;
     color: #2E2F42;}
 
+    .header-menu-link-studio:hover{
+        color: #404bbf;
+    }
+    .header-menu-link-studio:focus{
+        color: #404bbf;
+    }
+  
 .header-menu-link-portfolio{
     font-family: Roboto;
     font-size: 16px;
@@ -46,6 +53,15 @@ color:#4D5AE5;}
     text-align: left;
     color: #2E2F42;}
 
+
+    .header-menu-link-portfolio:hover{
+        color: #404bbf;
+    }
+    .header-menu-link-portfolio:focus{
+        color: #404bbf;
+    }  
+
+
 .header-menu-link-contacts{
     font-family: Roboto;
     font-size: 16px;
@@ -53,6 +69,14 @@ color:#4D5AE5;}
     line-height: 24px;
     letter-spacing: 0.02em;
     color:#2E2F42;}
+
+    .header-menu-link-contacts:hover{
+        color: #404bbf;
+    }
+    .header-menu-link-contacts:focus{
+        color: #404bbf;
+    }  
+
 
 .header-address-link-email{  
     font-family: Roboto;
