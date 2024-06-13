@@ -54,11 +54,14 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;}
 
-    .address-class-link:hover{
+    .address-class-link-info:hover{
         color: #404BBF;}
-    .address-class-link:focus{
+    .address-class-link-info:focus{
          color: #404BBF;}
-
+    .address-class-link-info{
+     color: #434455}
+     
+     
      .address{
         font-style: normal;}
 
