@@ -37,11 +37,11 @@ color:#4D5AE5;}
     letter-spacing: 0.02em;
     line-height: 1.5;
     color: #2E2F42;}
-
-    .header-menu-link-studio:hover{
+    .header-menu-link-studio.link:focus{
         color: #404bbf;
     }
-    .header-menu-link-studio:focus{
+        
+    .header-menu-link-studio.link:hover{
         color: #404bbf;
     }
   
@@ -54,10 +54,10 @@ color:#4D5AE5;}
     line-height: 1.5;
     color: #2E2F42;}
 
-    .header-menu-link-portfolio:hover{
+    .header-menu-link-portfolio.link:focus{
         color: #404bbf;
     }
-    .header-menu-link-portfolio:focus{
+    .header-menu-link-portfolio.link:hover{
         color: #404bbf;
     }  
 
@@ -71,10 +71,10 @@ color:#4D5AE5;}
     line-height: 1.5;
     color: #2E2F42;}
 
-    .header-menu-link-contacts:hover{
+    .header-menu-link-contacts.link:hover{
         color: #404bbf;
     }
-    .header-menu-link-contacts:focus{
+    .header-menu-link-contacts.link:focus{
         color: #404bbf;
     }  
 
