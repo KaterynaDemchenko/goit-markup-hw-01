@@ -37,8 +37,8 @@ color:#4D5AE5;}
     letter-spacing: 0.02em;
     line-height: 1.5;
     color: #2E2F42;}
-    .header-menu-link-studio .link:focus,
-    .header-menu-link-studio .link:hover{
+    .header-menu-link-studio.link:focus,
+    .header-menu-link-studio.link:hover{
     color: #404bbf;}
     
 
