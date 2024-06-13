@@ -30,8 +30,6 @@ color:#4D5AE5;}
     color:#2E2F42;}
 
 
-
-
 .header-menu-link{
     font-family: Roboto;
     font-size: 16px;
@@ -40,6 +38,7 @@ color:#4D5AE5;}
     letter-spacing: 0.02em;
     line-height: 1.5;
     color: #2E2F42;}
+
     .header-menu-link:hover{
        color: #404BBF;
     }
@@ -47,33 +46,20 @@ color:#4D5AE5;}
         color: #404BBF;
     }
     
-
-.header-address-link-email{  
+.header-address-link{  
     font-family: Roboto;
     font-size: 16px;
     font-weight: 400;
     line-height: 24px;
     letter-spacing: 0.02em;
     color: #434455;}
-    .header-address-link-email:hover{
+    .header-address-link:hover{
         color: #404BBF;
      }
-     .header-address-link-email:focus{
+     .header-address-link:focus{
          color: #404BBF;
      }
-.header-address-link-tel{
-    font-family: Roboto;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 24px;
-    letter-spacing: 0.02em;
-    color:#434455}
-    .header-address-link-tel:hover{
-        color: #404BBF;
-     }
-     .header-address-link-tel:focus{
-         color: #404BBF;
-     }
+
 .address{
      font-style: normal
 }
