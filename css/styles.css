@@ -29,6 +29,9 @@ color:#4D5AE5;}
     text-align: left;
     color:#2E2F42;}
 
+
+
+
 .header-menu-link-studio{
     font-family: Roboto;
     font-size: 16px;
@@ -37,9 +40,12 @@ color:#4D5AE5;}
     letter-spacing: 0.02em;
     line-height: 1.5;
     color: #2E2F42;}
-    .header-menu-link-studio.link:focus,
-    .header-menu-link-studio.link:hover{
-    color: #404bbf;}
+    .header-menu-link-studio:hover{
+       color: #404BBF;
+    }
+    .header-menu-link-studio:focus{
+        color: #404BBF;
+    }
     
 
   
@@ -52,10 +58,12 @@ color:#4D5AE5;}
     line-height: 1.5;
     color: #2E2F42;}
 
-    .header-menu-link-portfolio .link:focus,
-    .header-menu-link-portfolio .link:hover{
-    color: #404bbf;}
-    
+    .header-menu-link-portfolio:hover{
+        color: #404BBF;
+     }
+     .header-menu-link-portfolio:focus{
+         color: #404BBF;
+     }
 
 
 .header-menu-link-contacts{
@@ -67,9 +75,12 @@ color:#4D5AE5;}
     line-height: 1.5;
     color: #2E2F42;}
 
-    .header-menu-link-contacts .link:focus,
-    .header-menu-link-contacts .link:hover{
-    color: #404bbf;}
+    .header-menu-link-contacts:hover{
+        color: #404BBF;
+     }
+     .header-menu-link-contacts:focus{
+         color: #404BBF;
+     }
     
 
 
@@ -80,11 +91,12 @@ color:#4D5AE5;}
     line-height: 24px;
     letter-spacing: 0.02em;
     color: #434455;}
-    .header-address-link-email .link:focus,
-    .header-address-link-email .link:hover{
-    color: #404bbf;}
-    
-
+    .header-address-link-email:hover{
+        color: #404BBF;
+     }
+     .header-address-link-email:focus{
+         color: #404BBF;
+     }
 .header-address-link-tel{
     font-family: Roboto;
     font-size: 16px;
@@ -92,11 +104,12 @@ color:#4D5AE5;}
     line-height: 24px;
     letter-spacing: 0.02em;
     color:#434455}
-    .header-address-link-tel .link:focus,
-    .header-address-link-tel .link:hover{
-    color: #404bbf;}
-    
-
+    .header-address-link-tel:hover{
+        color: #404BBF;
+     }
+     .header-address-link-tel:focus{
+         color: #404BBF;
+     }
 .address{
      font-style: normal
 }
