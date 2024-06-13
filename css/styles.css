@@ -10,7 +10,7 @@ a {text-decoration: none; }
 
 /*-------HEADER--------*/
 
-.header-link-webstudio{
+.header-logo{
 font-family: Raleway, sans-serif;
 font-size: 18px;
 font-weight: 700;
@@ -20,7 +20,7 @@ text-transform: uppercase;
 line-height: 1.17; 
 color:#4D5AE5;}
 
-.header-link-studio{
+header-link-webstudio{
     font-family: Raleway;
     font-size: 18px;
     font-weight: 700;
