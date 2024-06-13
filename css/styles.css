@@ -100,7 +100,10 @@ background: #2E2F42;
     font-weight: 500;
     line-height: 24px;
     letter-spacing: 0.04em;
-    color:#FFFFFF}
+    color:#FFFFFF;
+    background-color: #4D5AE5;
+    font-family: "Roboto", sans-serif; 
+ }
 
 .main-section-second-header{
     font-family: Roboto;
