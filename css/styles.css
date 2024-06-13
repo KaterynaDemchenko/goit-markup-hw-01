@@ -1,6 +1,6 @@
 body{
 font-family:"Roboto",sans-serif;
-font-size: 400;
+font-size:400;
 color:#434455; 
 background-color:#FFFFFF;
 }
@@ -190,7 +190,7 @@ background-color: #FFFFFF
     color:#434455;}
 
 .main-section-fourth{
-    border-width: 1px, 1px, 1px;
+    border-width: 1px, 1px;
     border-style: solid;
     border-color: #E7E9FC;
 }
