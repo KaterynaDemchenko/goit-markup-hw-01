@@ -46,7 +46,7 @@ color:#4D5AE5;}
         color: #404BBF;
     }
     
-.header-address-class{  
+.header-address-link{  
     font-family: Roboto;
     font-size: 16px;
     font-weight: 400;
@@ -54,13 +54,15 @@ color:#4D5AE5;}
     letter-spacing: 0.02em;
     color: #434455;}
 
-    .header-address-class:hover{
+    .header-address-link:hover{
         color: #404BBF;}
-     .header-address-class:focus{
+     .header-address-link:focus{
          color: #404BBF;}
 
+
+
      .header-address-class{
-        font-style: normal}
+        font-style: normal;}
 
 /*----------------------*/
 
