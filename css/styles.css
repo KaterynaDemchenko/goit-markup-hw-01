@@ -109,7 +109,9 @@ background: #2E2F42;
 .main-buttom:hover{
     background-color: #404BBF;
 }
-
+.main-buttom:focus{
+    background-color: #404BBF;
+}
 
 
 .main-section-second-header{
