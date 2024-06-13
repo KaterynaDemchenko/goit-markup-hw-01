@@ -1,6 +1,7 @@
 body{
 font-family:"Roboto",sans-serif;
 color:#434455; 
+font-weight: 400;
 background-color:#FFFFFF;
 }
 
@@ -36,13 +37,11 @@ color:#4D5AE5;}
     letter-spacing: 0.02em;
     line-height: 1.5;
     color: #2E2F42;}
-    .header-menu-link-studio.link:focus{
-        color: #404bbf;
-    }
-        
-    .header-menu-link-studio.link:hover{
-        color: #404bbf;
-    }
+    .header-menu-link-studio .link:focus,
+    .header-menu-link-studio .link:hover{
+    color: #404bbf;}
+    
+
   
 .header-menu-link-portfolio{
     font-family: Roboto;
@@ -53,12 +52,10 @@ color:#4D5AE5;}
     line-height: 1.5;
     color: #2E2F42;}
 
-    .header-menu-link-portfolio.link:focus{
-        color: #404bbf;
-    }
-    .header-menu-link-portfolio.link:hover{
-        color: #404bbf;
-    }  
+    .header-menu-link-portfolio .link:focus,
+    .header-menu-link-portfolio .link:hover{
+    color: #404bbf;}
+    
 
 
 .header-menu-link-contacts{
@@ -70,12 +67,11 @@ color:#4D5AE5;}
     line-height: 1.5;
     color: #2E2F42;}
 
-    .header-menu-link-contacts.link:hover{
-        color: #404bbf;
-    }
-    .header-menu-link-contacts.link:focus{
-        color: #404bbf;
-    }  
+    .header-menu-link-contacts .link:focus,
+    .header-menu-link-contacts .link:hover{
+    color: #404bbf;}
+    
+
 
 .header-address-link-email{  
     font-family: Roboto;
@@ -84,6 +80,10 @@ color:#4D5AE5;}
     line-height: 24px;
     letter-spacing: 0.02em;
     color: #434455;}
+    .header-address-link-email .link:focus,
+    .header-address-link-email .link:hover{
+    color: #404bbf;}
+    
 
 .header-address-link-tel{
     font-family: Roboto;
@@ -92,6 +92,10 @@ color:#4D5AE5;}
     line-height: 24px;
     letter-spacing: 0.02em;
     color:#434455}
+    .header-address-link-tel .link:focus,
+    .header-address-link-tel .link:hover{
+    color: #404bbf;}
+    
 
 .address{
      font-style: normal
@@ -189,7 +193,6 @@ background-color: #FFFFFF
     color:#434455;}
 
 .main-section-fourth{
-    border-width: 1px, 1px;
     border-style: solid;
     border-color: #E7E9FC;
 }
