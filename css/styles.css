@@ -339,7 +339,10 @@ border-radius: 0px 0px 4px 4px;
     text-align: left;
     color: #4D5AE5;
     text-transform: uppercase;
-    margin-bottom: 16px;
+    margin-bottom: 16px;}
+   
+
+.footer-link-webstudio{
     display: inline-block; 
 }
 
