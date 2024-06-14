@@ -46,14 +46,16 @@ color:#4D5AE5;}
     color:#2E2F42;
     text-transform: uppercase;
 }
+.header-menu-list{
 
+}
 
 
 .header-menu-iteam{
     margin-right: 40px 0 ;
     display: flex;
     gap: 40px;}
-}
+
 
 
 .header-menu-link{
