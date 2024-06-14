@@ -150,13 +150,27 @@ padding: 188px 0;
 
 
 .main-section-second-header{
+    padding: 120px 0;
     font-family: Roboto;
     font-size: 20px;
     font-weight: 500;
     line-height: 24px;
     letter-spacing: 0.02em;
-    color:#2E2F42}
+    color:#2E2F42;
+    margin-bottom: 8px;
+}
 
+.main-section-second-list{
+    display: flex;
+    gap: 24px;
+    margin-right: 24px;
+
+
+   }
+.main-section-second-iteam{
+    width: calc((100% - 72px) / 4); 
+}
+    
 .main-section-second-text{
     font-family: Roboto;
     font-size: 16px;
