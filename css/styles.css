@@ -51,13 +51,6 @@ color:#4D5AE5;}
     display: flex;
     gap: 40px;}
 
-.header-menu-iteam{
-display: flex;
-gap: 40px;
-}
-
-
-
 .header-menu-link{
     display: block;
     padding: 24px 0 24px;
@@ -67,6 +60,8 @@ gap: 40px;
     letter-spacing: 0.02em;
     line-height: 1.5;
     color: #2e2f42;
+    display: flex;
+    gap: 40px;
    }
    
     .header-menu-link:hover{
