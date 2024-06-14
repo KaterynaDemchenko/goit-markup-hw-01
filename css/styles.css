@@ -13,6 +13,9 @@ a {text-decoration: none; }
     margin: auto;
     padding:0 15px 0 15px ;
     width: 1158px;
+
+    display: flex;
+
 }
 .header{border-bottom: 1px solid #E7E9FC;
 }
@@ -77,6 +80,7 @@ color:#4D5AE5;}
 
 .address-class-link{  
 margin-left: 40px;   
+display: flex;
 font-family: Roboto;
 font-weight: 400;
 font-size: 16px;
@@ -84,7 +88,10 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 list-style: none;
 font-style: normal;
-color: #434455;}
+color: #434455;
+gap: 40px;
+margin-right: 40px; 
+}
 
 .address-class-link:hover{
 color: #404BBF;}
