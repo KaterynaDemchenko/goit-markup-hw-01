@@ -147,7 +147,9 @@ padding: 188px 0;
 .main-buttom:focus{
     background-color: #404BBF;
 }
-
+.main-section-second{
+    padding: 120px 0;
+}
 
 .main-section-second-header{
     padding: 120px 0;
@@ -168,7 +170,7 @@ padding: 188px 0;
 
    }
 .main-section-second-iteam{
-    width: calc((100% - 72px) / 4); 
+    flex-basis:calc((100%-3*24px)/4); 
 }
     
 .main-section-second-text{
