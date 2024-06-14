@@ -233,7 +233,8 @@ background-color: #FFFFFF
 
 
 .footer{
- background:#2E2F42
+ background:#2E2F42;
+ padding: 100px 0;
 }
 .footer-link{
     font-family: Raleway;
@@ -252,6 +253,8 @@ background-color: #FFFFFF
     text-align: left;
     color: #4D5AE5;
     text-transform: uppercase;
+    display: inline-block;
+    margin-bottom: 16px;
 
 }
 
