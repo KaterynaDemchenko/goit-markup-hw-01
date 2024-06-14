@@ -167,7 +167,6 @@ padding: 188px 0;
     gap: 24px;
     margin-right: 24px;
 
-
    }
 .main-section-second-iteam{
     flex-basis:calc((100%-3*24px)/4); 
@@ -181,11 +180,21 @@ padding: 188px 0;
     letter-spacing: 0.02em;
     color: #434455;}
 
+
+
+
+
 .main-section-third{
+padding: 120px 0;
 background-color: #F4F4FD;
+
 }   
 .main-section-third-item{
-background-color: #FFFFFF 
+background-color: #FFFFFF;
+width: calc((100% - 72px) / 4); 
+border-radius: 0px 0px 4px 4px;
+
+
 }
 
 .main-title-team{
@@ -196,7 +205,15 @@ background-color: #FFFFFF
     letter-spacing: 0.02em;
     text-align: center;
     text-transform: capitalize;
-    color: #2E2F42;}
+    margin-bottom: 72px;
+
+}
+.main-section-third-list{
+    display: flex;
+    gap: 24px;
+
+
+}
 
 .main-section-third-header{
     font-family: Roboto;
