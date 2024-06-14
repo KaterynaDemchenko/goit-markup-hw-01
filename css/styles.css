@@ -60,8 +60,6 @@ color:#4D5AE5;}
     letter-spacing: 0.02em;
     line-height: 1.5;
     color: #2e2f42;
-    display: flex;
-    gap: 40px;
    }
    
     .header-menu-link:hover{
@@ -76,7 +74,7 @@ color:#4D5AE5;}
     margin-left: auto;
   font-style: normal;
 }  
-address-class-list{
+.address-class-list{
 display: flex;
 gap: 40px;
 margin-right: 40px; 
