@@ -9,8 +9,20 @@ ul {list-style-type: none;}
 a {text-decoration: none; }
 
 /*-------HEADER--------*/
+.container{
+    margin: auto;
+    padding:0 15px 0 15px ;
+    width: 1158px;
+}
+.header{border-bottom: 1px solid #E7E9FC;
+}
+.header-navigation{ 
+  display: flex; 
+  align-items: center; 
+}
 
 .header-logo{
+margin-right: 76px;
 font-family: Raleway, sans-serif;
 font-size: 18px;
 font-weight: 700;
@@ -21,16 +33,27 @@ line-height: 1.17;
 color:#4D5AE5;}
 
 .header-link-webstudio{
-    font-family: Raleway;
+    margin-right: 76px;
+    font-family: Raleway, sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 21px;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-align: left;
-    color:#2E2F42;}
+    color:#2E2F42;
+    text-transform: uppercase;
+}
+.header-menu-list{
+    display: flex;
+    gap: 40px;}
+.header-menu-iteam{
+    margin-right: 40px 0 ;
+}
 
 
 .header-menu-link{
+    display: block;
+    padding: 24px 0 24px;
     font-family: Roboto;
     font-size: 16px;
     font-weight: 500;
@@ -47,25 +70,28 @@ color:#4D5AE5;}
     }
 
 
+.address{
+    margin-left: auto;
+  font-style: normal;
+}  
+
 .address-class-link{  
+margin-left: 40px;   
 font-family: Roboto;
+font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
+list-style: none;
+font-style: normal;
 color: #434455;}
 
-.address-class-link-info:hover{
+.address-class-link:hover{
 color: #404BBF;}
 
-.address-class-link-info:focus{
+.address-class-link:focus{
 color: #404BBF;}
 
-.address-class-link-info{
-color: #434455}
-     
-     
-     .address{
-        font-style: normal;}
 
 /*----------------------*/
 
