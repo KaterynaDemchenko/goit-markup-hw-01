@@ -270,6 +270,8 @@ border-radius: 0px 0px 4px 4px;
 
 .main-section-fourth-item{
     width: calc((100%-48px)/3);
+    padding-left: 0;
+    margin-left: 0;
 }
 
 
