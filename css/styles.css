@@ -251,11 +251,6 @@ display: flex;
 .main-section-third-img{
     display: block;
 }
-.main-section-fourth-container{
-    padding: 32px 16px; 
-    border: 1px solid #e7e9fc;
-    border-top:none;
-}
 
 .main-section-fourth{
     border-style: solid;
