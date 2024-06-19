@@ -222,7 +222,9 @@ border-radius: 0px 0px 4px 4px;
 
 }
 .main-section-third-list{
-    gap: 24px;
+    gap: 24px; 
+    display: flex;
+
 }
 
 .main-section-third-team{
@@ -261,6 +263,7 @@ border-radius: 0px 0px 4px 4px;
 }
 .main-section-fourth-list{
     margin-bottom: 72px; 
+    display: flex;
     flex-wrap: wrap;
     column-gap: 24px;
     row-gap: 48px;
