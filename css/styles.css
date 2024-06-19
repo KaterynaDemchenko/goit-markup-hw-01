@@ -206,7 +206,7 @@ background-color: #F4F4FD;
 background-color: #FFFFFF;
 width: calc((100% - 72px) / 4); 
 border-radius: 0px 0px 4px 4px;
-
+display: flex; 
 
 }
 
@@ -223,9 +223,7 @@ border-radius: 0px 0px 4px 4px;
 }
 .main-section-third-list{
     gap: 24px; 
-    display: flex;
-
-}
+    display: flex;}
 
 .main-section-third-team{
     padding: 32px 0;
@@ -270,9 +268,9 @@ border-radius: 0px 0px 4px 4px;
 }
 
 .main-section-fourth-item{
-    width: calc((100%-48px)/3);
     padding-left: 0;
     margin-left: 0;
+    width: calc((100% - 48px) / 3);
 }
 
 
@@ -342,12 +340,13 @@ border-radius: 0px 0px 4px 4px;
     text-align: left;
     color: #4D5AE5;
     text-transform: uppercase;
-    margin-bottom: 16px;}
+    margin-bottom: 16px;
+}
    
 
 .footer-logo-link{
-    display: inline-block; 
-}
+    display:inline-block;
+   }
 
 .footer-link-studio{
     font-family: Raleway;
