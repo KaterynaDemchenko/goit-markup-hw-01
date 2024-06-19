@@ -48,7 +48,7 @@ display: flex;
     text-transform: uppercase;
     display: flex;
 };
-
+.header-menu-iteam{}
 
 .header-menu-link{
     padding: 24px 0 24px;
@@ -62,7 +62,6 @@ display: flex;
     margin-right: 40px 0 ;
     gap: 40px;}
     
-   }
    
     .header-menu-link:hover{
        color: #404BBF;
