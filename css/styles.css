@@ -133,7 +133,7 @@ padding: 188px 0;
     height: 56px;
     border: none;
     border-radius: 4px;
-
+    display: block
  }
 .main-buttom:hover{
     background-color: #404BBF;
