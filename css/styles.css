@@ -11,9 +11,10 @@ a {text-decoration: none; }
 /*-------HEADER--------*/
 
 
-.header{border-bottom: 1px solid #E7E9FC;
+.header container{
     display: flex;
 }
+
 .header-navigation{ 
   display: flex; 
   align-items: center; 
@@ -48,7 +49,9 @@ display: flex;
 .header-menu-list{
     margin-right: 40px 0 ;
     display: flex;
-    gap: 40px;}
+    gap: 40px;
+
+}
 
 .header-menu-link{
     padding: 24px 0 24px;
