@@ -286,6 +286,8 @@ display: flex;
     column-gap: 24px;
     row-gap: 48px;
     display: flex;
+    padding-left: 0;
+    margin-left: 0;
 }
 
 .main-section-fourth-item{
