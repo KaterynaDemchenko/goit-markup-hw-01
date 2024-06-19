@@ -200,14 +200,13 @@ padding: 188px 0;
 .main-section-third{
 padding: 120px 0;
 background-color: #F4F4FD;
-
 }   
 .main-section-third-item{
 background-color: #FFFFFF;
 width: calc((100% - 72px) / 4); 
 border-radius: 0px 0px 4px 4px;
-display: flex; 
-
+display: flex;
+display: block;
 }
 
 .main-title-team{
@@ -271,6 +270,7 @@ display: flex;
     padding-left: 0;
     margin-left: 0;
     width: calc((100% - 48px) / 3);
+    display: block;
 }
 
 
