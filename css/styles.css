@@ -319,9 +319,6 @@ display: flex;
     letter-spacing: 0.02em;
     color:#434455;}
     
-.main-section-fourth-img { 
-    display: block;
-}
 
     
 /*----------------------*/
@@ -351,6 +348,7 @@ display: flex;
     color: #4D5AE5;
     text-transform: uppercase;
     margin-bottom: 16px;
+    display:inline-block;
 }
    
 
